@@ -1,6 +1,7 @@
 body {
-    background-image: url(../Estalk-Advogados/IMG/wall.jpg);
+    background-image: url(./IMG/wall.png);
     background-repeat: no-repeat;
+    background-size: cover;
     color: white;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -61,6 +62,7 @@ h3 {
 }
 
 main p {
+    text-align: left;
     text-align: justify;
     text-indent: 15px;
 }
