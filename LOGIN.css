@@ -1,6 +1,8 @@
 body {
     font-family: 'Times New Roman', Times, serif;
-    background-color: #001431
+    background-image: url(./IMG/wall.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .login {
