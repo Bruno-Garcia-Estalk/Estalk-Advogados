@@ -1,0 +1,67 @@
+body {
+    color: white;
+    background-image: url(./IMG/wall.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+header img {
+    width: 150px;
+    height: 150px;
+}
+
+.center {
+    text-align: center;
+}
+
+.Hs {
+    color: white;
+    text-align: left;
+}
+
+nav a:hover {
+    color: #cbcbcb;
+}
+
+.container {
+    padding: 0px 50px;
+    text-align: center;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+footer a {
+    margin: 100px;
+}
+
+footer img {
+    width: 40px;
+    height: 40px;
+}
+
+h3 {
+    color: cyan;
+    text-align: center;
+}
+
+main p {
+    text-align: center;
+    text-indent: 15px;
+}
