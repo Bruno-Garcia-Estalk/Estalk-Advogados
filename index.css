@@ -56,13 +56,17 @@ footer img {
     text-align: left;
 }
 
+h2 {
+    color: white;
+    text-align: left;
+}
+
 h3 {
     color: white;
     text-align: left;
 }
 
-main p {
-    text-align: left;
-    text-align: justify;
+P{
     text-indent: 15px;
+    text-align: justify;
 }
